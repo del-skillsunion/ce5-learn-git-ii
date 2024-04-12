@@ -37,3 +37,11 @@ GitHub is a platform for version control and collaboration. It uses Git, a distr
    ```
 
 7. **`git pull`**: This command is used to fetch and download content from a remote repository and immediately update the local repository to match that content. It merges changes from the remote tracking branch to your current branch.
+
+8. **`git branch`**: This command is used to manage branches in your repository. You can create, list, or delete branches.
+
+   Example:
+   ```
+   git branch new-branch     # Creates a new branch called 'new-branch'
+   git branch                # Lists all local branches
+   ```
