@@ -57,7 +57,3 @@ GitHub is a platform for version control and collaboration. It uses Git, a distr
 10. **`git merge`**: This command merges two branches together. This is typically used to bring changes from one branch into another (e.g., merging a feature branch into the main branch).
 
 These commands are foundational for using Git and GitHub effectively for version control in your software projects.
-
-
-
-asdas
