@@ -45,3 +45,11 @@ GitHub is a platform for version control and collaboration. It uses Git, a distr
    git branch new-branch     # Creates a new branch called 'new-branch'
    git branch                # Lists all local branches
    ```
+
+9. **`git checkout`**: This command is used to switch between branches or restore working tree files.
+
+   Example:
+   ```
+   git checkout branch-name  # Switches to 'branch-name'
+   git checkout -b new-branch  # Creates a new branch and switches to it
+   ```
